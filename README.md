@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?text=SEMI_BANG&type=egg)
+![header](https://capsule-render.vercel.app/api?text=SEMI_BANG&type=soft&color=d6ace6)
 
-덕성여자대학교 IT미디어공학과, 심리학과 전공
+:raising_hand: my name is SEMI BANG   
+:mortar_board: Duksung w.uni   
+:computer: IT Media Engineering   
+:sparkles: Psychology
+
 
 ## Project
 - [홈트레이닝 스마트미러](https://github.com/971021hr/tantan_webproject)
